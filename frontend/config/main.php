@@ -4,7 +4,7 @@ $params = array_merge(
     require(__DIR__ . '/../../common/config/params-local.php'),
     require(__DIR__ . '/params.php'),
     require(__DIR__ . '/params-local.php'),
-    require(__DIR__ . '/aliases.php')
+    //require(__DIR__ . '/aliases.php')
 );
 
 return [
@@ -58,8 +58,8 @@ return [
                         'facebook' => [
                               'class' => 'yii\authclient\clients\Facebook',
                               'authUrl' => 'https://www.facebook.com/dialog/oauth?display=popup',
-                              'clientId' => '889802881164709',
-                              'clientSecret' => '3d0ac01fd0eb7059218230258c4d9eb4',
+                              'clientId' => '',
+                              'clientSecret' => '',
                         ],
                 ],
         ],

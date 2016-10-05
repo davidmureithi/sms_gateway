@@ -39,23 +39,3 @@ class MailController extends \yii\web\Controller
 	     }
     }
 }
-
-
-
-// Now,what have you to do is whenever you want to send a mail, save the same in database like,
-
-//     $queue = new MailQueue();
-//     $queue->to_email = 'xx@xmail.com;
-//     $queue->subject = 'Test Mail';
-//     $queue->from_email = \Yii::$app->params['adminEmail'];
-//     $queue->from_name =  ' Test';
-//     $queue->date_published = date("Y-m-d");
-//     $queue->max_attempts = 3;  //No of try to send this mail
-//     $queue->attempts = 0;
-//     $queue->success = 1;  //will be set to 0 on send.
-//     $queue->message = \Yii::$app->controller->renderPartial('your_view',['param' => $params]);
-//     $queue->save();  
-// Now set your crontab so as to execute the send action in every 10 minutes.
-
-//    */10 * * * * php /var/www/vhosts/yourapp/yii mail/send
-// Ready to Go..! Happy Coding!

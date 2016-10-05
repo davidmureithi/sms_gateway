@@ -151,8 +151,8 @@ class PhonebookController extends Controller
     }
 
     public function actionSending(){
-        $username   = "Junix";
-        $apikey     = "cfe2e4354c5a445478ef17d4bae115b2f4590b8895d97f735e16040f4d7fac44";
+        $username   = "";
+        $apikey     = "";
 
         $model = new Msgqueue();
         $model = Msgqueue::find()->where(['status' => 02])->one();

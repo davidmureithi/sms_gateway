@@ -29,9 +29,9 @@ DashboardAsset::register($this);
     <!-- Logo -->
     <a href="index2.html" class="logo">
       <!-- mini logo for sidebar mini 50x50 pixels -->
-      <span class="logo-mini"><b>A</b>LT</span>
+      <span class="logo-mini"><b>SMS</b>GW</span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>Admin</b>LTE</span>
+      <span class="logo-lg"><b>SMS</b>Gateway</span>
     </a>
     <!-- Header Navbar: style can be found in header.less -->
     <nav class="navbar navbar-static-top">
@@ -51,7 +51,7 @@ DashboardAsset::register($this);
             </a>
             
             <ul class="dropdown-menu">
-              <li class="header">Currently I have Learnt 7 Lessons</li>
+              <li class="header">Currently We have Have 7 Modules</li>
               <li>
                 <!-- inner menu: contains the actual data -->
                 <ul class="menu">
@@ -152,7 +152,7 @@ DashboardAsset::register($this);
                         <img src="dist/img/user3-128x128.jpg" class="img-circle" alt="User Image">
                       </div>
                       <h4>
-                        AdminLTE Design Team
+                        SMS Gateway App
                         <small><i class="fa fa-clock-o"></i> 2 hours</small>
                       </h4>
                       <p>Why not buy a new awesome theme?</p>
@@ -319,7 +319,7 @@ DashboardAsset::register($this);
           <li class="dropdown user user-menu">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
               <img src="dist/img/user2-160x160.jpg" class="user-image" alt="User Image">
-              <span class="hidden-xs">Alexander Pierce</span>
+              <span class="hidden-xs">David Ndekere</span>
             </a>
             <ul class="dropdown-menu">
               <!-- User image -->
@@ -327,7 +327,7 @@ DashboardAsset::register($this);
                 <img src="dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
 
                 <p>
-                  Alexander Pierce - Web Developer
+                  David Ndekere - Web Developer
                   <small>Member since Nov. 2012</small>
                 </p>
               </li>
@@ -376,7 +376,7 @@ DashboardAsset::register($this);
           <img src="dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
         </div>
         <div class="pull-left info">
-          <p>Alexander Pierce</p>
+          <p>David Ndekere</p>
           <a href="#"><i class="fa fa-circle text-success"></i> Online</a>
         </div>
       </div>
@@ -734,7 +734,7 @@ DashboardAsset::register($this);
                 <p class="message">
                   <a href="#" class="name">
                     <small class="text-muted pull-right"><i class="fa fa-clock-o"></i> 5:15</small>
-                    Alexander Pierce
+                    David Ndekere
                   </a>
                   I would like to meet you to discuss the latest news about
                   the arrival of the new theme. They say it is going to be one the
@@ -1100,7 +1100,7 @@ DashboardAsset::register($this);
     <div class="pull-right hidden-xs">
       <b>Version</b> 2.3.6
     </div>
-    <strong>Copyright &copy; 2014-2016 <a href="http://almsaeedstudio.com">Almsaeed Studio</a>.</strong> All rights
+    <strong>Copyright &copy; 2014-2016 <a href="#">Technosouls</a>.</strong> All rights
     reserved.
   </footer>
 

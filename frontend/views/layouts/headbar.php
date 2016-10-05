@@ -51,7 +51,7 @@ DashboardAsset::register($this);
             </a>
             
             <ul class="dropdown-menu">
-              <li class="header">Currently I have Learnt 7 Lessons</li>
+              <li class="header">Currently We have 7 Modules</li>
               <li>
                 <!-- inner menu: contains the actual data -->
                 <ul class="menu">
@@ -152,7 +152,7 @@ DashboardAsset::register($this);
                         <img src="dist/img/user3-128x128.jpg" class="img-circle" alt="User Image">
                       </div>
                       <h4>
-                        AdminLTE Design Team
+                        SMS Gateway App
                         <small><i class="fa fa-clock-o"></i> 2 hours</small>
                       </h4>
                       <p>Why not buy a new awesome theme?</p>
@@ -319,7 +319,7 @@ DashboardAsset::register($this);
           <li class="dropdown user user-menu">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
               <img src="dist/img/user2-160x160.jpg" class="user-image" alt="User Image">
-              <span class="hidden-xs">Alexander Pierce</span>
+              <span class="hidden-xs">Ndekere David</span>
             </a>
             <ul class="dropdown-menu">
               <!-- User image -->
@@ -327,8 +327,8 @@ DashboardAsset::register($this);
                 <img src="dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
 
                 <p>
-                  Alexander Pierce - Web Developer
-                  <small>Member since Nov. 2012</small>
+                  Ndekere David - Web Developer
+                  <small>Member since Nov. 2010</small>
                 </p>
               </li>
               <!-- Menu Body -->
@@ -376,7 +376,7 @@ DashboardAsset::register($this);
           <img src="<?php Yii::getAlias('@webroot')?>/dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
         </div>
         <div class="pull-left info">
-          <p>Alexander Pierce</p>
+          <p>SMS Gateway</p>
           <a href="#"><i class="fa fa-circle text-success"></i> Online</a>
         </div>
       </div>
