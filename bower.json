@@ -1,0 +1,19 @@
+{
+  "name": "yii-two",
+  "authors": [
+    "David <ndekeredavid@gmail.com>"
+  ],
+  "description": "My bowerjson  package",
+  "main": "",
+  "license": "MIT",
+  "homepage": "http://localhost/yii-two/frontend/web/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,54 @@
+Message-ID: <eee09396130978a43cab24d2a49c53e6@localhost>
+Date: Sat, 03 Sep 2016 22:15:02 +0200
+Subject: Password reset for My Application
+From: My Application robot <support@example.com>
+To: ndekeredavid@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1472933702_636ba9c99c6c8af3abe7e5dd7b8c5c33_=_"
+
+
+--_=_swift_v4_1472933702_636ba9c99c6c8af3abe7e5dd7b8c5c33_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello david,
+
+Follow the link below to reset your password:
+
+http:/=
+/localhost/yii-two/frontend/web/index.php?r=3Dsite%2Freset-password&token=
+=3D0xY1zlTAWIaM2OigrnJgYmhefnPzxhK6_1472933700
+
+--_=_swift_v4_1472933702_636ba9c99c6c8af3abe7e5dd7b8c5c33_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <div class=3D"password-reset">
+    <p>Hello david,</p>
+
+    <p>Fo=
+llow the link below to reset your password:</p>
+
+    <p><a href=3D"http=
+://localhost/yii-two/frontend/web/index.php?r=3Dsite%2Freset-password&amp;t=
+oken=3D0xY1zlTAWIaM2OigrnJgYmhefnPzxhK6_1472933700">http://localhost/yii-tw=
+o/frontend/web/index.php?r=3Dsite%2Freset-password&amp;token=3D0xY1zlTAWIaM=
+2OigrnJgYmhefnPzxhK6_1472933700</a></p>
+</div>
+    </body>
+</html>
+
+
+--_=_swift_v4_1472933702_636ba9c99c6c8af3abe7e5dd7b8c5c33_=_--
