@@ -53,3 +53,5 @@ tests                    contains various tests for the advanced application
     codeception/         contains tests developed with Codeception PHP Testing Framework
 ```
 # sms_gateway
+
+### The SMS Gate Way Installation Guide
